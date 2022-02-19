@@ -1,0 +1,27 @@
+body{
+    font-family: 'B612', sans-serif;
+    font-family: 'Lato', sans-serif;
+    background-color: aqua; 
+}
+h1{
+    color: red;
+    background-color: antiquewhite;
+    
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.abc
+{
+    font-size: 40px;
+    background-color: blueviolet;
+}
+#xyz{
+    font-size: 60px;
+    color: blue;
+}
